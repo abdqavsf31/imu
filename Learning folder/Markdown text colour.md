@@ -1,6 +1,8 @@
-# Latex text colour
+# Markdown text colour
 
-## Colour code
+## Latex form
+
+### Colour code
 
 ```latex
 $\textcolor{GreenYellow}{GreenYellow} $
@@ -75,11 +77,8 @@ $\textcolor{Black}{Black}$
 ## Appearance
 
 $\textcolor{GreenYellow}{GreenYellow} $
-
 $\textcolor{Yellow}{Yellow}$
-
 $\textcolor{Goldenrod}{Goldenrod} $
-
 $\textcolor{Dandelion}{Dandelion}$
 $\textcolor{Apricot}{Apricot} $
 $\textcolor{Peach}{Peach}$
@@ -144,6 +143,18 @@ $\textcolor{Brown}{Brown} $
 $\textcolor{Tan}{Tan}$
 $\textcolor{Gray}{Gray} $
 $\textcolor{Black}{Black}$
+
+## HTML 5 form
+
+### Code
+
+``` html
+<span style="color:text colour;background:background colour;font-size:text size;font-family:text font;">your text here</span>
+```
+
+### Appearance
+
+<span style="color:white;background:red;font-size:30px;font-family:calibri light;">your text here</span>
 
 ## Reference
 
